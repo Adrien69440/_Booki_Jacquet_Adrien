@@ -589,7 +589,7 @@ ul,li
 
 /* Le code ci-dessous correspond à la version responsive uniquement */
 /* ** large desktop** */
-@media (min-width: 1025px)
+@media (min-width: 1024px)
 {
 	/* disparition de l'icone loupe  */
 	#magnifying-glass-hidden
@@ -602,7 +602,7 @@ ul,li
 	
 /****** Media queries ***********/
 /* Medium devices (tablets, less/equal than 1024px) */
-@media (max-width: 1025px)
+@media (max-width: 1024px)
 {
 	#text-filter
 	{
