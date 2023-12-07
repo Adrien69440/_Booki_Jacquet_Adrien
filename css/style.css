@@ -297,7 +297,7 @@ font-size: 22px;
 
 .filterBar
 {
-	width: 67%;
+	width: 100%;
 	display: flex;
 	justify-content: space-around;
 	align-items: flex-end;
